@@ -1,0 +1,67 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/dmytronakonechnyi/Desktop/PJATK/FOURTH/APBD/tutorial3_template/Tutorial3_Task/Tutorial3_Task.csproj": {}
+  },
+  "projects": {
+    "/Users/dmytronakonechnyi/Desktop/PJATK/FOURTH/APBD/tutorial3_template/Tutorial3_Task/Tutorial3_Task.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/dmytronakonechnyi/Desktop/PJATK/FOURTH/APBD/tutorial3_template/Tutorial3_Task/Tutorial3_Task.csproj",
+        "projectName": "Tutorial3_Task",
+        "projectPath": "/Users/dmytronakonechnyi/Desktop/PJATK/FOURTH/APBD/tutorial3_template/Tutorial3_Task/Tutorial3_Task.csproj",
+        "packagesPath": "/Users/dmytronakonechnyi/.nuget/packages/",
+        "outputPath": "/Users/dmytronakonechnyi/Desktop/PJATK/FOURTH/APBD/tutorial3_template/Tutorial3_Task/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/dmytronakonechnyi/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.200"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/Users/dmytronakonechnyi/.dotnet/sdk/9.0.200/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,6 @@
+/Users/dmytronakonechnyi/Desktop/PJATK/FOURTH/APBD/tutorial3_template/DeviceManager.Tests/bin/Debug/net8.0/CoverletSourceRootsMapping_DeviceManager.Tests
+/Users/dmytronakonechnyi/Desktop/PJATK/FOURTH/APBD/tutorial3_template/DeviceManager.Tests/obj/Debug/net8.0/DeviceManager.Tests.csproj.AssemblyReference.cache
+/Users/dmytronakonechnyi/Desktop/PJATK/FOURTH/APBD/tutorial3_template/DeviceManager.Tests/obj/Debug/net8.0/DeviceManager.Tests.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dmytronakonechnyi/Desktop/PJATK/FOURTH/APBD/tutorial3_template/DeviceManager.Tests/obj/Debug/net8.0/DeviceManager.Tests.AssemblyInfoInputs.cache
+/Users/dmytronakonechnyi/Desktop/PJATK/FOURTH/APBD/tutorial3_template/DeviceManager.Tests/obj/Debug/net8.0/DeviceManager.Tests.AssemblyInfo.cs
+/Users/dmytronakonechnyi/Desktop/PJATK/FOURTH/APBD/tutorial3_template/DeviceManager.Tests/obj/Debug/net8.0/DeviceManager.Tests.csproj.CoreCompileInputs.cache

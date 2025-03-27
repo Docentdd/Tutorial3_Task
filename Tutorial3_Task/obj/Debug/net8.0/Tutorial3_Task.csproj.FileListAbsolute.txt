@@ -1,0 +1,15 @@
+/Users/dmytronakonechnyi/Desktop/PJATK/FOURTH/APBD/tutorial3_template/Tutorial3_Task/bin/Debug/net8.0/Tutorial3_Task
+/Users/dmytronakonechnyi/Desktop/PJATK/FOURTH/APBD/tutorial3_template/Tutorial3_Task/bin/Debug/net8.0/input.txt
+/Users/dmytronakonechnyi/Desktop/PJATK/FOURTH/APBD/tutorial3_template/Tutorial3_Task/bin/Debug/net8.0/Tutorial3_Task.deps.json
+/Users/dmytronakonechnyi/Desktop/PJATK/FOURTH/APBD/tutorial3_template/Tutorial3_Task/bin/Debug/net8.0/Tutorial3_Task.runtimeconfig.json
+/Users/dmytronakonechnyi/Desktop/PJATK/FOURTH/APBD/tutorial3_template/Tutorial3_Task/bin/Debug/net8.0/Tutorial3_Task.dll
+/Users/dmytronakonechnyi/Desktop/PJATK/FOURTH/APBD/tutorial3_template/Tutorial3_Task/bin/Debug/net8.0/Tutorial3_Task.pdb
+/Users/dmytronakonechnyi/Desktop/PJATK/FOURTH/APBD/tutorial3_template/Tutorial3_Task/obj/Debug/net8.0/Tutorial3_Task.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dmytronakonechnyi/Desktop/PJATK/FOURTH/APBD/tutorial3_template/Tutorial3_Task/obj/Debug/net8.0/Tutorial3_Task.AssemblyInfoInputs.cache
+/Users/dmytronakonechnyi/Desktop/PJATK/FOURTH/APBD/tutorial3_template/Tutorial3_Task/obj/Debug/net8.0/Tutorial3_Task.AssemblyInfo.cs
+/Users/dmytronakonechnyi/Desktop/PJATK/FOURTH/APBD/tutorial3_template/Tutorial3_Task/obj/Debug/net8.0/Tutorial3_Task.csproj.CoreCompileInputs.cache
+/Users/dmytronakonechnyi/Desktop/PJATK/FOURTH/APBD/tutorial3_template/Tutorial3_Task/obj/Debug/net8.0/Tutorial3_Task.dll
+/Users/dmytronakonechnyi/Desktop/PJATK/FOURTH/APBD/tutorial3_template/Tutorial3_Task/obj/Debug/net8.0/refint/Tutorial3_Task.dll
+/Users/dmytronakonechnyi/Desktop/PJATK/FOURTH/APBD/tutorial3_template/Tutorial3_Task/obj/Debug/net8.0/Tutorial3_Task.pdb
+/Users/dmytronakonechnyi/Desktop/PJATK/FOURTH/APBD/tutorial3_template/Tutorial3_Task/obj/Debug/net8.0/Tutorial3_Task.genruntimeconfig.cache
+/Users/dmytronakonechnyi/Desktop/PJATK/FOURTH/APBD/tutorial3_template/Tutorial3_Task/obj/Debug/net8.0/ref/Tutorial3_Task.dll
